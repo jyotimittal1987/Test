@@ -1,0 +1,65 @@
+Exception Handling :
+
+3 types of Error :
+
+1)Syntax Error : 
+	; , 
+2)Logical Error :o/p is not as per expectation
+	
+a/ b , b/a 
+
+3)Runtime Errors : Are also known as Exceptions 
+
+a=10
+b=2
+
+a/b 
+
+b=0
+
+10/0- 
+
+We need to handle these exceptions to save the app from the abnormal termination.
+By making use of exception handlers
+
+try
+catch
+finally
+throw
+throws 
+
+
+nested if else
+
+if 
+{
+
+if()
+else
+
+}
+else
+{
+
+if()
+else
+
+
+
+try
+{
+try{}
+catch{}
+}catch()
+{}
+
+
+
+
+
+
+
+
+
+
+
